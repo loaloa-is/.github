@@ -103,6 +103,7 @@ The use cases change, but the need is the same: one trusted home for valuable me
 
 - Website — https://www.loaloa.is
 - LinkedIn — https://www.linkedin.com/company/loaloasystems
+- Facebook — https://www.facebook.com/loaloasystems
 - X — https://x.com/loaloasystems
 - Wikidata — https://www.wikidata.org/wiki/Q140386888
 
@@ -110,4 +111,5 @@ Built in Reykjavík, Iceland · loaloa@loaloa.is
 
 ---
 
-Loaloa is a software company building Archive Intelligence for enterprise media. It is not related to *Loa loa*, the parasitic nematode of the same name.
+Loaloa is a software company building Archive Intelligence for enterprise media. The name is distinct from *Loa loa*, the biological term for a parasitic nematode.
+
