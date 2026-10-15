@@ -4,7 +4,7 @@
 
 **Archive Intelligence for enterprise media.**
 
-Loaloa builds the AI-native media infrastructure layer for organizations with large video, audio, image and document archives.
+Loaloa develops Studio, an AI-native media platform for organizations with large video, audio, image and document archives.
 
 Most enterprise archives are overflowing. The problem is not that content is missing — it is that no one can find, trust, reuse or safely publish what already exists. Loaloa turns institutional media archives into searchable, governed and publishable intelligence.
 
@@ -12,7 +12,7 @@ We are building one platform for the full lifecycle: ingest, enrichment, search,
 
 ## What we build
 
-Loaloa combines cloud media asset management, online video infrastructure and multimodal AI search into one operating layer.
+Studio combines cloud media asset management, online video infrastructure and multimodal AI search into one operating layer.
 
 - **Archive** — ingest, store and organize video, audio, images, documents, live streams and legacy media
 - **Enrich** — generate transcripts, subtitles, translations, summaries, image labels, document text and metadata
